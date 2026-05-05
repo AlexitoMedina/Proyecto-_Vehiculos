@@ -12,7 +12,7 @@ Sigue estos pasos para levantar el entorno de desarrollo en tu máquina local.
 
 ### 1. Clonar el repositorio
 ```bash
-git clone [https://github.com/AlexitoMedina/Proyecto-_Vehiculos.git](https://github.com/AlexitoMedina/Proyecto-_Vehiculos.git)
+git clone https://github.com/AlexitoMedina/Proyecto-_Vehiculos.git
 cd Proyecto-_Vehiculos
 ```
 ### 2. Crear y activar el entorno virtual
